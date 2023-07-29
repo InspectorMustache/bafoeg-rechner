@@ -1,0 +1,3 @@
+#+TITLE: BAföG-Rechner
+
+Einfaches Programm in Go zur Berechnung des BAföG-Satzes. Um alle Aspekte der Berechnung zu berücksichtigen, müssten aber noch ein paar Felder hinzugefügt werden.
